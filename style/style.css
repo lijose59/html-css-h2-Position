@@ -1,0 +1,31 @@
+*, *::before, *::after {
+    margin: 0;
+    box-sizing: border-box;
+}
+main{
+    height: 200px;
+    background: #AB2849;
+}
+
+div{
+    position: relative;
+    height: 100%;
+}
+nav{
+    position: absolute;
+    width: 180px;
+}
+section{
+    margin: 15px 200px 0 0;
+    background: #AB2849;
+    height: 90px;
+}
+header{
+    background: #93B5C9;
+    height: 100px;
+}
+footer{
+    background: #AB2849;
+    margin: 15px 20px 10px 20px;
+    height: 70px;
+}
